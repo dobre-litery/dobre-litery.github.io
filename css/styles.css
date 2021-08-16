@@ -1,0 +1,168 @@
+body {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 15px;
+}
+
+h2 {font-family: 'Inknut Antiqua', serif;
+line-height: 35px;
+font-weight: normal;
+}
+h1 {font-family: 'Inknut Antiqua', serif;
+font-size: 35px;
+line-height: 80px;
+margin-bottom: 0px;
+    margin-top: 60px;
+}
+h3 {
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 25px;
+    line-height: 50px;
+    margin-top: -20px;
+}
+
+.skills-list {
+  font-family: 'IBM Plex Mono', monospace;
+
+line-height: 20px;
+text-align: center;
+list-style: none;
+background-color: #00963c40;
+font-size: 30px;
+}
+
+img {max-width: 100%;}
+
+
+nav {
+    background-color: #E7FFA5;
+    font-size: 20px;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+li.empty {
+  width: 90px;
+  border-top: 1px solid black;
+  top: -1px;
+  position: relative;
+}
+
+nav ul li {
+  display: inline-block;
+margin: 0 15px;
+padding: 0;
+text-transform: inherit;
+text-align: center;
+}
+
+nav li a {
+  text-decoration: none;
+  color: black;
+}
+
+body, nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0 auto;
+  text-align: left;
+  padding: 10px;
+}
+
+
+header {
+  position: relative;
+  margin-bottom: 100px;
+  background-image: url(../img/background3.png);
+  background-size: cover;
+  background-position-y: -260px;
+      background-repeat: no-repeat;
+}
+
+ul li {
+  list-style: outside;
+  margin: 3px 0;
+}
+
+.button {
+text-decoration: none;
+border: 1px solid black;
+margin-top: 5px;
+padding: 5px 5px;
+text-align: color: black;
+color: black;
+display: inline-block;
+border-radius: 10px;
+font-size: 10px;
+transition: background 0.5s ease-in-out, color 0.5s ease-in-out;
+}
+
+.button:hover {
+  background: black;
+  color: white;
+}
+
+figcaption {
+  font-size: 10px;
+}
+
+.intro-img {
+  box-shadow: 1px 2px 30px rgba(0,0,0,0.2);
+  margin-top: 80px;
+    margin-bottom: 5px;
+    max-width: 70%;
+}
+
+.skills-list2 {
+  font-family: 'IBM Plex Mono', monospace;
+
+line-height: 20px;
+text-align: center;
+list-style: none;
+background-color: #E7FFA5;
+font-size: 30px;
+padding: 15px;
+margin-bottom: 20px;
+margin-top: -80px;
+}
+
+.skills-list3 {
+  font-family: 'IBM Plex Mono', monospace;
+line-height: 20px;
+text-align: center;
+list-style: none;
+font-weight:normal;
+}
+
+.project {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 20px;
+}
+.project .bottom {
+margin-top: 5px;
+}
+
+footer {
+  text-align: center;
+  background-color: #E7FFA5;
+  margin: 30px;
+}
+footer h2 {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+p2 {
+  text-align: center;
+  font-size: 10px;
+  margin: 30px;
+  display: block;
+}
+
+.right-alignment {
+  text-align: right;
+}
