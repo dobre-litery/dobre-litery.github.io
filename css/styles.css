@@ -30,7 +30,7 @@ background-color: #00963c40;
 font-size: 30px;
 }
 
-img {max-width: 100%;}
+img {max-width: 70%;}
 
 
 nav {
@@ -78,7 +78,7 @@ header {
   margin-bottom: 100px;
   background-image: url(../img/background3.png);
   background-size: cover;
-  background-position-y: -260px;
+  background-position-y: -280px;
       background-repeat: no-repeat;
 }
 
