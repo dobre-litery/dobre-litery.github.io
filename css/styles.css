@@ -105,6 +105,8 @@ transition: background 0.5s ease-in-out, color 0.5s ease-in-out;
   color: white;
 }
 
+.button {collapse}
+
 figcaption {
   font-size: 10px;
 }
@@ -166,5 +168,3 @@ p2 {
 .right-alignment {
   text-align: right;
 }
-
-#more {display: none;}
